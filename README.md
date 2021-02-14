@@ -8,10 +8,6 @@ which one. He built it in honor of the goddess Athena and it was frequented
 by the academics of its time. I chose it because I didn't want to use Library and it
 sounds cool
 
-## Atheneaum App hierarchy
-Components:
-    
-
 ## Further Plans
 I'll keep building on this project until it mirrors a full streaming service minus the videos. I'll try and find a way to add trailers instead.
 <!-- 
